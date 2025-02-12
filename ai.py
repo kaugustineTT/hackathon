@@ -41,7 +41,7 @@ chat_completion = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": f"My log file pasted below has multiple Error message. Analyze the logfile and create a NAME for each common type of failure. Then create a human readable DESCRIPTION that describes the failures. After that a COUNT that is the number of times the failure occurs in the log file. Followed by a HOW TO FIX section. Put a new line between each section. Do not reprint the question. {log_file_contents}",
+            "content": f"My log file pasted below has multiple Error message. Analyze the logfile and create a NAME for each common type of failure. Then create a human readable DESCRIPTION that describes the failures. After that a COUNT that is the number of times the failure occurs in the log file. Followed by a HOW TO FIX section. Put a new line between each section. Do not reprint the question. Each error usually has the keyword Error- in front of it. This can be used to help figure out the count. {log_file_contents}",
         }
     ],
     model="tenstorrent/Meta-Llama-3.1-70B-Instruct",
@@ -62,6 +62,8 @@ except json.JSONDecodeError:
     print("Failed to parse JSON response.")
 
 ### Need to figure out a method to keep a consistent response for errors especially if it is a known previous error. Need to figure out adding memory.
+### Even after giving a hint on what to look at it still isn't getting the count right.
+
 # EXAMPLE RESULT (Count is incorrect it should have been 5) This was first attempt.
 # **Error: Module Previously Declared**
 
@@ -103,4 +105,18 @@ except json.JSONDecodeError:
 # COUNT: 29
 
 # HOW TO FIX: To resolve this issue, you need to identify and remove the duplicate declarations of the modules. Make sure that each module has a unique name, and there are no duplicate definitions in the same file. You can also check the inclusion of files to ensure that the same module is not being included multiple times.
+# ========================================================
+
+#Ran one last time with the additiona of providing a hint on the error keywod to help figure out the count. Still didn't get the count right. Need to figure out how to improve the count.
+# ========================================================
+# NAME: Duplicate Module Declaration
+
+# DESCRIPTION: The error occurs when the same module is declared multiple times in the design. This can happen when a module is defined in multiple files or when a module is instantiated multiple times with the same name.
+
+# COUNT: 29
+
+# HOW TO FIX: To fix this error, you need to remove one of the duplicate module declarations. You can do this by:
+
+# 1. Identifying the duplicate module declarations: Look for the module names that are declared multiple times in the error messages.
+# 2. Removing the duplicate declaration: Remove one of the duplicate module declarations from the design. You can do this by deleting the module
 # ========================================================
