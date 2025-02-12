@@ -1,0 +1,976 @@
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_overlay_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTOverlayConfig/gen-collateral/chipyard.harness.TestHarness.TTOverlayConfig.top.mems.v",
+  1
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/overlay_srams.sv",
+  1: token is 'TTOverlayConfig_cc_dir_ext'
+  module TTOverlayConfig_cc_dir_ext(
+                                   ^
+  Please remove one of the declarations and compile again.
+
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_overlay_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTOverlayConfig/gen-collateral/chipyard.harness.TestHarness.TTOverlayConfig.top.mems.v",
+  199
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/overlay_srams.sv",
+  42: token is 'TTOverlayConfig_cc_banks_0_ext'
+  module TTOverlayConfig_cc_banks_0_ext(
+                                       ^
+  Please remove one of the declarations and compile again.
+
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_overlay_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTOverlayConfig/gen-collateral/chipyard.harness.TestHarness.TTOverlayConfig.top.mems.v",
+  229
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/overlay_srams.sv",
+  80: token is 'TTOverlayConfig_rockettile_dcache_data_arrays_0_ext'
+  module TTOverlayConfig_rockettile_dcache_data_arrays_0_ext(
+                                                            ^
+  Please remove one of the declarations and compile again.
+
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_overlay_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTOverlayConfig/gen-collateral/chipyard.harness.TestHarness.TTOverlayConfig.top.mems.v",
+  287
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/overlay_srams.sv",
+  121: token is 'TTOverlayConfig_rockettile_dcache_tag_array_ext'
+  module TTOverlayConfig_rockettile_dcache_tag_array_ext(
+                                                        ^
+  Please remove one of the declarations and compile again.
+
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_overlay_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTOverlayConfig/gen-collateral/chipyard.harness.TestHarness.TTOverlayConfig.top.mems.v",
+  345
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/overlay_srams.sv",
+  162: token is 'TTOverlayConfig_rockettile_icache_tag_array_ext'
+  module TTOverlayConfig_rockettile_icache_tag_array_ext(
+                                                        ^
+  Please remove one of the declarations and compile again.
+
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_overlay_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTOverlayConfig/gen-collateral/chipyard.harness.TestHarness.TTOverlayConfig.top.mems.v",
+  403
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/overlay_srams.sv",
+  202: token is 'TTOverlayConfig_rockettile_icache_data_arrays_0_ext'
+  module TTOverlayConfig_rockettile_icache_data_arrays_0_ext(
+                                                            ^
+  Please remove one of the declarations and compile again.
+
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/tt_overlay_smn_wrapper.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/tt_overlay_clock_reset_ctrl.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/tt_overlay_wrapper_dfx.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/tt_overlay_wrapper.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ALU.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AMOALU.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_APBToTL.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4Buffer.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4Buffer_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4Buffer_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4Deinterleaver_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4Fragmenter.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4IdIndexer.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4IdIndexer_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4IdIndexer_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4IdIndexer_3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4ToTL.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4UserYanker.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4UserYanker_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4UserYanker_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AXI4UserYanker_3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Arbiter2_HellaCacheReq.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Arbiter2_Valid_PTWReq.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Arbiter3_LLWB.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncQueueSink_DebugInternalBundle.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncQueueSink_TLBundleA_a9d32s1k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncQueueSink_TLBundleD_a9d32s1k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncQueueSource_DebugInternalBundle.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncQueueSource_TLBundleA_a9d32s1k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncQueueSource_TLBundleD_a9d32s1k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncResetRegVec_w16_i4096.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncResetRegVec_w1_i0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncResetRegVec_w2_i0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncResetRegVec_w4_i0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncResetRegVec_w72_i0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncResetSynchronizerPrimitiveShiftReg_d3_i0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncResetSynchronizerShiftReg_w1_d3_i0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncResetSynchronizerShiftReg_w1_d3_i0_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_AsyncValidSync.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Atomics.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_BTB.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_BankBinder.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_BankedStore.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_BreakpointUnit.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_BundleBridgeNexus_UInt3_8.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_BusErrorUnit.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_CLINT.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_CLINTClockSinkDomain.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_CSRFile.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ChipyardPRCICtrlClockSinkDomain.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockCrossingReg_w29.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockCrossingReg_w43.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockCrossingReg_w55.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockGroupAggregator_allClocks.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockGroupCombiner.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockGroupResetSynchronizer.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockSinkDomain_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockSinkDomain_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockSinkDomain_3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockSinkDomain_4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockSinkDomain_5.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockSinkDomain_6.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockSinkDomain_7.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ClockSinkDomain_8.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_CoherenceManagerWrapper.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_DCache.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_DCacheDataArray.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_DigitalTop.sv'
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/tt_overlay_pkg.sv'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_DigitalTop.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Directory.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ErrorDeviceWrapper.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_FixedClockBroadcast_10.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_FixedClockBroadcast_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_FixedClockBroadcast_4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_FixedClockBroadcast_6.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_FrontBus.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Frontend.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_HellaCacheArbiter.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IBuf.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ICache.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IDPool.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ITLB.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_InclusiveCache.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_InclusiveCacheBankScheduler.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_InclusiveCacheControl.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_InferredResetSynchronizerPrimitiveShiftReg_d3_i0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IntSyncAsyncCrossingSink_n1x1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IntSyncAsyncCrossingSink_n1x72.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IntSyncCrossingSource_n1x1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IntSyncCrossingSource_n1x2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IntSyncCrossingSource_n1x72.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IntSyncCrossingSource_n8x1_Registered.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IntSyncRationalCrossingSink_n1x1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IntSyncRationalCrossingSink_n1x2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IntSyncSyncCrossingSink_n1x1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IntXbar_i3_o1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_IntXbar_i9_o1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_LevelGateway.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ListBuffer_PutBufferAEntry_q8_e8.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ListBuffer_PutBufferCEntry_q2_e4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ListBuffer_QueuedRequest_q18_e6.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_MSHR.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_MaxPeriodFibonacciLFSR.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_MemoryBus.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_MulDiv.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_MultiNextLinePrefetcher.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_NonSyncResetSynchronizerPrimitiveShiftReg_d3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_OptimizationBarrier_TLBEntryData.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_PLICClockSinkDomain.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_PLICFanIn.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_PMAChecker.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_PMPChecker_s2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_PMPChecker_s3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_PTW.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_PeripheryBus_cbus.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_PeripheryBus_pbus.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_PlusArgTimeout.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ProbePicker.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue104_BundleMap.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue105_BundleMap.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_AXI4BundleAR.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_AXI4BundleARW.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_AXI4BundleARW_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_AXI4BundleARW_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_AXI4BundleAW.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_AXI4BundleB.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_AXI4BundleR.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_AXI4BundleW.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_AXI4BundleW_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_BankedStoreInnerAddress.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_BundleMap.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_BundleMap_258.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_DirectoryWrite.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_RegMapperInput_i23_m8.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_RegMapperInput_i9_m8.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_SinkXRequest.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_SourceXRequest.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_TLBundleA_a12d32s1k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_TLBundleA_a22d256s9k3z3c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_TLBundleA_a27d64s13k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_TLBundleA_a36d64s9k1z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_TLBundleD_a12d32s1k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_TLBundleD_a22d256s9k3z3c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue1_TLBundleD_a27d64s13k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleAR.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleAR_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleAR_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleAW.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleAW_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleAW_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleB.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleB_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleR.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleR_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleR_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleW.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_AXI4BundleW_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_RoCCCommand.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_RoCCResponse.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleA_a22d512s2k3z3c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleA_a27d64s9k1z3u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleA_a27d64s9k1z3u_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleA_a36d64s9k1z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleA_a36d64s9k1z4u_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleA_a52d256s2k6z4c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleA_a52d512s4k6z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleB_a52d256s2k6z4c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleC_a22d256s9k3z3c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleC_a52d256s2k6z4c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleD_a22d512s2k3z3c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleD_a27d64s9k1z3u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleD_a36d64s9k1z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleD_a52d256s2k6z4c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleD_a52d512s4k6z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleD_a52d8s1k6z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleE_a22d512s2k3z3c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue2_TLBundleE_a52d256s2k6z4c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue3_BankedStoreInnerDecoded.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue3_UInt2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue4_BundleMap.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue5_TLBundleC_a22d512s2k3z3c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue8_AXI4BundleR.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue8_BundleMap.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Queue8_BundleMap_20.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RRArbiter.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RRArbiter_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RRArbiter_24.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RVCExpander.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSink.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSink_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSink_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSink_24.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSink_32.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSink_33.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSink_34.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSource.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSource_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSource_16.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSource_24.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSource_25.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSource_26.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RationalCrossingSource_27.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RegionReplicator.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Repeater_TLBundleA_a27d64s9k1z3u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Repeater_TLBundleA_a28d64s9k1z3u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Repeater_TLBundleA_a36d256s9k1z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Repeater_TLBundleA_a52d512s5k6z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Repeater_TLBundleB_a52d256s1k6z4c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Repeater_TLBundleD_a22d512s9k1z3u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Repeater_TLBundleD_a52d256s1k6z4c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Repeater_TLBundleD_a52d256s1k6z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Repeater_TLBundleD_a52d512s1k6z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Repeater_TLBundleD_a52d512s9k1z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ResetCatchAndSync_d3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ResetSynchronizerShiftReg_w1_d3_i0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RoccCommandRouter.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Rocket.sv'
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/tt_overlay_pkg.sv'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_Rocket.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RocketTile.sv'
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/tt_overlay_pkg.sv'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_RocketTile.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SBToTL.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ShiftQueue.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ShiftQueue_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ShiftQueue_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ShiftQueue_3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ShiftQueue_4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ShiftQueue_40.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ShiftQueue_41.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ShiftQueue_56.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SimpleHellaCacheIF.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SimpleHellaCacheIFReplayQueue.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SingleNextLinePrefetcher.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SinkA.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SinkC.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SinkD.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SinkE.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SinkX.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SourceA.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SourceB.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SourceC.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SourceD.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SourceE.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SourceX.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SynchronizerShiftReg_w1_d3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SynchronizerShiftReg_w72_d3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_SystemBus.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLAsyncCrossingSink_a9d32s1k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLAsyncCrossingSource_a9d32s1k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLAtomicAutomata_cbus.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLAtomicAutomata_pbus.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLBuffer_a12d32s1k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLBuffer_a22d256s9k3z3c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLBuffer_a27d64s13k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLBuffer_a27d64s9k1z3u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLBuffer_a27d64s9k1z3u_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLBuffer_a36d64s9k1z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLBuffer_a36d64s9k1z4u_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLBuffer_a52d256s2k6z4c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLBuffer_a52d512s4k6z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLBusBypass.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLBusBypassBar.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLCacheCork.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLDebugModuleInner.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLDebugModuleInnerAsync.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLDebugModuleOuter.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLError.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLError_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLError_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFIFOFixer.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFIFOFixer_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFIFOFixer_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFIFOFixer_3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFIFOFixer_4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_10.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_5.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_6.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_7.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_8.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_CLINT.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_LLCCtrl.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLFragmenter_PLIC.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_cbus_to_clint.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_cbus_to_debug.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_cbus_to_l2_ctrl.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_cbus_to_plic.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_cbus_to_rockettile.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_fbus_from_debug_sb.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_fbus_from_port_named_slave_port_axi4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_mbus_to_memory_controller_port_named_axi4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_pbus_to_device_named_wdt_0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_pbus_to_device_named_wdt_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_pbus_to_device_named_wdt_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_pbus_to_device_named_wdt_3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_pbus_to_device_named_wdt_4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_pbus_to_device_named_wdt_5.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_pbus_to_device_named_wdt_6.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_pbus_to_device_named_wdt_7.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_pbus_to_port_named_periph_port_axi4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_sbus_from_bus_named_fbus.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_sbus_from_rockettile.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_sbus_to_bus_named_cbus.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_sbus_to_memory_controller_bypass_port.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLInterconnectCoupler_sbus_to_port_named_mmio_port_axi4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_10.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_100.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_101.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_102.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_103.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_104.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_105.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_106.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_107.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_108.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_109.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_110.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_111.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_112.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_113.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_114.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_115.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_116.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_117.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_118.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_154.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_155.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_156.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_157.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_158.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_159.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_160.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_161.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_162.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_163.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_164.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_165.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_166.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_167.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_168.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_169.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_170.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_171.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_172.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_18.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_19.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_20.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_28.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_29.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_30.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_31.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_32.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_33.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_34.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_35.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_36.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_37.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_38.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_39.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_40.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_41.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_42.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_43.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_44.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_45.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_46.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_47.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_48.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_49.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_50.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_51.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_52.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_53.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_54.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_55.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_56.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_57.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_58.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_59.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_60.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_61.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_62.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_63.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_64.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_65.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_66.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_67.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_68.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_69.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_70.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_71.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_72.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_73.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_74.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_75.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_76.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_77.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_78.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_79.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_80.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_81.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_82.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_83.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_84.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_85.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_86.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_87.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_88.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_89.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_9.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_90.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_91.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_92.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_93.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_94.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_95.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_96.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_97.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_98.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLMonitor_99.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLPLIC.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLPrefetcher.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLRationalCrossingSink.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLRationalCrossingSink_8.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLRationalCrossingSource.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLRationalCrossingSource_8.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLToAXI4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLToAXI4_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLToAXI4_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWDT.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWDT_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWDT_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWDT_3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWDT_4.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWDT_5.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWDT_6.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWDT_7.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWidthWidget1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWidthWidget16.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWidthWidget32.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWidthWidget32_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWidthWidget32_3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWidthWidget64.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLWidthWidget8_10.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLXbar_MasterXbar_RocketTile_i2_o1_a52d256s2k6z4c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLXbar_cbus_out_i1_o14_a36d64s9k1z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLXbar_fbus_i2_o1_a52d512s5k6z4u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLXbar_i1_o3_a12d32s1k1z2u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLXbar_mbus_i9_o1_a22d512s10k1z3u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLXbar_pbus_out_i1_o9_a27d64s9k1z3u.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TLXbar_sbus_i9_o11_a52d256s9k6z4c.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TTTLDebugModule.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TTTLDebugModuleOuterAsync.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TilePRCIDomain.sv'
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/tt_overlay_pkg.sv'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_TilePRCIDomain.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_WatchdogTimer.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_cc_banks_0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_cc_banks_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_cc_banks_2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_cc_banks_3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_cc_dir.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_data_4x257.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_data_6x40.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_data_8x289.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_head_18x3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_head_2x2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_head_8x3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_next_4x2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_next_6x3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_next_8x3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_104x20.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_105x20.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x10.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x11.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x118.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x125.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x128.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x135.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x265.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x275.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x297.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x321.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x360.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x52.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x524.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x527.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x533.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x537.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x56.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x577.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x610.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x650.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x68.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x69.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x73.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x84.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x85.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x86.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_2x96.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_3x2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_5x546.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_8x13.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_8x14.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_8x88.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_data_3x256.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_real_last_4x1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_ram_sink_2x6.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_rf_31x64.sv'
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/tt_overlay_pkg.sv'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_rf_31x64.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_rockettile_dcache_data_arrays_0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_rockettile_dcache_data_arrays_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_rockettile_dcache_tag_array.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_rockettile_icache_data_arrays_0.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_rockettile_icache_data_arrays_1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_rockettile_icache_tag_array.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_table_512x1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_tail_18x3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_tail_2x2.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/TTCCEConfig_tail_8x3.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/plusarg_reader.v'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/tt_rocc_accel_wrapper.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/chipyard_mem_intf.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/chipyard.harness.TestHarness.TTCCEConfig.top.mems.v'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/packages/tt_cce_keraunos_pkg.sv'
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/include/cce_axi_typedef.svh'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/packages/tt_cce_keraunos_pkg.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/packages/tt_cce_axi_dma_pkg.sv'
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/packages/tt_cce_pkg.sv'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/packages/tt_cce_axi_dma_pkg.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/packages/tt_cce_addr_remap_pkg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/packages/tt_cce_reg_pkg.sv'
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/svh/cce_reg.svh'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/packages/tt_cce_reg_pkg.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/packages/tt_cce_int_pkg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/packages/tt_cce_snoop_pkg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_ctrl_reg_pkg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_ctrl_reg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_ctrl_reg_inner.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_vf_ctrl_reg_pkg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_vf_ctrl_reg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_vf_ctrl_reg_inner.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_dmrisc_addr_remap_reg_pkg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_dmrisc_addr_remap_reg_inner.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_dmrisc_addr_remap_reg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_snoop_addr_remap_reg_pkg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_snoop_addr_remap_reg_inner.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_snoop_addr_remap_reg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_interrupt_reg_pkg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_interrupt_reg_inner.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_interrupt_reg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_interrupt_msix_reg_pkg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_interrupt_msix_reg_inner.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_interrupt_msix_reg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_desc_rings_reg_pkg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_desc_rings_reg_inner.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/registers/cce/rtl/tt_cce_desc_rings_reg.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/crossbars/cce_reg_axil_xbar.sv'
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/axi/include/axi/typedef.svh'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/meta/crossbars/cce_reg_axil_xbar.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1r_hsr_lvt_32x136m2b1c1_wrapper.v'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1r_hsr_lvt_32x136m2b1c1_wrapper.v",
+  12
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1r_hsr_lvt_32x136m2b1c1_wrapper.v",
+  12: token is 'ln04lpp_s00_mc_rf1r_hsr_lvt_32x136m2b1c1_wrapper'
+  module ln04lpp_s00_mc_rf1r_hsr_lvt_32x136m2b1c1_wrapper (DOUT, CK, CSN, WEN,
+  A, DI, MCS, MCSW
+                                                         ^
+  Please remove one of the declarations and compile again.
+
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1r_hsr_lvt_32x136m2b1c1.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1r_hsr_lvt_32x136m2b1c1.sv",
+  41
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1r_hsr_lvt_32x136m2b1c1.sv",
+  41: token is 'tt_mem_wrapper_ln04lpp_s00_mc_rf1r_hsr_lvt_32x136m2b1c1'
+  module tt_mem_wrapper_ln04lpp_s00_mc_rf1r_hsr_lvt_32x136m2b1c1 (
+                                                                ^
+  Please remove one of the declarations and compile again.
+
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x1024_sp_nomask_overlay_context_switch.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrap_32x1024_sp_nomask_overlay_context_switch.sv",
+  18
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x1024_sp_nomask_overlay_context_switch.sv",
+  12: token is 'tt_mem_wrap_32x1024_sp_nomask_overlay_context_switch'
+  module tt_mem_wrap_32x1024_sp_nomask_overlay_context_switch #(
+                                                             ^
+  Please remove one of the declarations and compile again.
+
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/tt_chip/memories/wrappers/tt_mem_parity_functions.svh'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x1024_sp_nomask_overlay_context_switch.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rd2rd_uhsr_lvt_128x136m2b1c1_wrapper.v'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rd2rd_uhsr_lvt_128x136m2b1c1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_128x256_sp_nomask_l2_data.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrap_128x256_sp_nomask_l2_data.sv",
+  18
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_128x256_sp_nomask_l2_data.sv",
+  12: token is 'tt_mem_wrap_128x256_sp_nomask_l2_data'
+  module tt_mem_wrap_128x256_sp_nomask_l2_data #(
+                                              ^
+  Please remove one of the declarations and compile again.
+
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/tt_chip/memories/wrappers/tt_mem_parity_functions.svh'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_128x256_sp_nomask_l2_data.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rd2rwd_uhsr_lvt_32x160m2b1c1_wrapper.v'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rd2rwd_uhsr_lvt_32x160m2b1c1.sv'
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x152_sp_wmask_l2_dir.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrap_32x152_sp_wmask_l2_dir.sv",
+  18
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x152_sp_wmask_l2_dir.sv",
+  12: token is 'tt_mem_wrap_32x152_sp_wmask_l2_dir'
+  module tt_mem_wrap_32x152_sp_wmask_l2_dir #(
+                                           ^
+  Please remove one of the declarations and compile again.
+
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/tt_chip/memories/wrappers/tt_mem_parity_functions.svh'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x152_sp_wmask_l2_dir.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_128x144m2b1c1_wrapper.v'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_128x144m2b1c1_wrapper.v",
+  12
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_128x144m2b1c1_wrapper.v",
+  12: token is 'ln04lpp_s00_mc_rf1rw_hsr_lvt_128x144m2b1c1_wrapper'
+  module ln04lpp_s00_mc_rf1rw_hsr_lvt_128x144m2b1c1_wrapper (DOUT, CK, CSN, 
+  WEN, A, DI, MCS, MCSW
+                                                           ^
+  Please remove one of the declarations and compile again.
+
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_128x144m2b1c1.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_128x144m2b1c1.sv",
+  41
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_128x144m2b1c1.sv",
+  41: token is 'tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_128x144m2b1c1'
+  module tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_128x144m2b1c1 (
+                                                                  ^
+  Please remove one of the declarations and compile again.
+
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_128x144_sp_wmask_data_arrays_0_ext.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrap_128x144_sp_wmask_data_arrays_0_ext.sv",
+  18
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_128x144_sp_wmask_data_arrays_0_ext.sv",
+  12: token is 'tt_mem_wrap_128x144_sp_wmask_data_arrays_0_ext'
+  module tt_mem_wrap_128x144_sp_wmask_data_arrays_0_ext #(
+                                                       ^
+  Please remove one of the declarations and compile again.
+
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/tt_chip/memories/wrappers/tt_mem_parity_functions.svh'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_128x144_sp_wmask_data_arrays_0_ext.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_32x100m2b1c1_wrapper.v'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_32x100m2b1c1_wrapper.v",
+  12
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_32x100m2b1c1_wrapper.v",
+  12: token is 'ln04lpp_s00_mc_rf1rw_hsr_lvt_32x100m2b1c1_wrapper'
+  module ln04lpp_s00_mc_rf1rw_hsr_lvt_32x100m2b1c1_wrapper (DOUT, CK, CSN, 
+  WEN, A, DI, MCS, MCSW
+                                                          ^
+  Please remove one of the declarations and compile again.
+
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_32x100m2b1c1.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_32x100m2b1c1.sv",
+  41
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_32x100m2b1c1.sv",
+  41: token is 'tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_32x100m2b1c1'
+  module tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_32x100m2b1c1 (
+                                                                 ^
+  Please remove one of the declarations and compile again.
+
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x100_sp_wmask_tag_array_ext.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrap_32x100_sp_wmask_tag_array_ext.sv",
+  18
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x100_sp_wmask_tag_array_ext.sv",
+  12: token is 'tt_mem_wrap_32x100_sp_wmask_tag_array_ext'
+  module tt_mem_wrap_32x100_sp_wmask_tag_array_ext #(
+                                                  ^
+  Please remove one of the declarations and compile again.
+
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/tt_chip/memories/wrappers/tt_mem_parity_functions.svh'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x100_sp_wmask_tag_array_ext.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_256x66m2b1c1_wrapper.v'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_256x66m2b1c1_wrapper.v",
+  12
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_256x66m2b1c1_wrapper.v",
+  12: token is 'ln04lpp_s00_mc_rf1rw_hsr_lvt_256x66m2b1c1_wrapper'
+  module ln04lpp_s00_mc_rf1rw_hsr_lvt_256x66m2b1c1_wrapper (DOUT, CK, CSN, 
+  WEN, A, DI, MCS, MCSW
+                                                          ^
+  Please remove one of the declarations and compile again.
+
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_256x66m2b1c1.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_256x66m2b1c1.sv",
+  49
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_256x66m2b1c1.sv",
+  49: token is 'tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_256x66m2b1c1'
+  module tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_256x66m2b1c1 (
+                                                                 ^
+  Please remove one of the declarations and compile again.
+
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_256x66_sp_wmask_data_arrays_0_0_ext.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrap_256x66_sp_wmask_data_arrays_0_0_ext.sv",
+  18
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_256x66_sp_wmask_data_arrays_0_0_ext.sv",
+  12: token is 'tt_mem_wrap_256x66_sp_wmask_data_arrays_0_0_ext'
+  module tt_mem_wrap_256x66_sp_wmask_data_arrays_0_0_ext #(
+                                                        ^
+  Please remove one of the declarations and compile again.
+
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/tt_chip/memories/wrappers/tt_mem_parity_functions.svh'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_256x66_sp_wmask_data_arrays_0_0_ext.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_32x86m2b1c1_wrapper.v'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_32x86m2b1c1_wrapper.v",
+  12
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/tech/sms4/verilog/ln04lpp_s00_mc_rf1rw_hsr_lvt_32x86m2b1c1_wrapper.v",
+  12: token is 'ln04lpp_s00_mc_rf1rw_hsr_lvt_32x86m2b1c1_wrapper'
+  module ln04lpp_s00_mc_rf1rw_hsr_lvt_32x86m2b1c1_wrapper (DOUT, CK, CSN, WEN,
+  A, DI, MCS, MCSW
+                                                         ^
+  Please remove one of the declarations and compile again.
+
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_32x86m2b1c1.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_32x86m2b1c1.sv",
+  41
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_32x86m2b1c1.sv",
+  41: token is 'tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_32x86m2b1c1'
+  module tt_mem_wrapper_ln04lpp_s00_mc_rf1rw_hsr_lvt_32x86m2b1c1 (
+                                                                ^
+  Please remove one of the declarations and compile again.
+
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x86_sp_wmask_tag_array_0_ext.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/overlay/rtl/memories/wrappers/tt_mem_wrap_32x86_sp_wmask_tag_array_0_ext.sv",
+  18
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x86_sp_wmask_tag_array_0_ext.sv",
+  12: token is 'tt_mem_wrap_32x86_sp_wmask_tag_array_0_ext'
+  module tt_mem_wrap_32x86_sp_wmask_tag_array_0_ext #(
+                                                   ^
+  Please remove one of the declarations and compile again.
+
+Parsing included file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/tt_chip/memories/wrappers/tt_mem_parity_functions.svh'.
+Back to file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/tt_mem_wrap_32x86_sp_wmask_tag_array_0_ext.sv'.
+Parsing design file '/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/cce_srams.sv'
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/chipyard.harness.TestHarness.TTCCEConfig.top.mems.v",
+  1
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/cce_srams.sv",
+  1: token is 'TTCCEConfig_cc_dir_ext'
+  module TTCCEConfig_cc_dir_ext(
+                               ^
+  Please remove one of the declarations and compile again.
+
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/chipyard.harness.TestHarness.TTCCEConfig.top.mems.v",
+  199
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/cce_srams.sv",
+  40: token is 'TTCCEConfig_cc_banks_0_ext'
+  module TTCCEConfig_cc_banks_0_ext(
+                                   ^
+  Please remove one of the declarations and compile again.
+
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/chipyard.harness.TestHarness.TTCCEConfig.top.mems.v",
+  229
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/cce_srams.sv",
+  76: token is 'TTCCEConfig_rockettile_dcache_data_arrays_0_ext'
+  module TTCCEConfig_rockettile_dcache_data_arrays_0_ext(
+                                                        ^
+  Please remove one of the declarations and compile again.
+
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/chipyard.harness.TestHarness.TTCCEConfig.top.mems.v",
+  287
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/cce_srams.sv",
+  115: token is 'TTCCEConfig_rockettile_dcache_tag_array_ext'
+  module TTCCEConfig_rockettile_dcache_tag_array_ext(
+                                                    ^
+  Please remove one of the declarations and compile again.
+
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/chipyard.harness.TestHarness.TTCCEConfig.top.mems.v",
+  345
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/cce_srams.sv",
+  154: token is 'TTCCEConfig_rockettile_icache_tag_array_ext'
+  module TTCCEConfig_rockettile_icache_tag_array_ext(
+                                                    ^
+  Please remove one of the declarations and compile again.
+
+
+Error-[MPD] Module previously declared
+  The module was previously declared at: 
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/z_tt_cce_chipyard/sims/vcs/generated-src/chipyard.harness.TestHarness.TTCCEConfig/gen-collateral/chipyard.harness.TestHarness.TTCCEConfig.top.mems.v",
+  403
+  It is redeclared later at:
+  "/proj_soc/user_dev/kaugustine/keraunos_soc/deps/cce/rtl/memories/wrappers/cce_srams.sv",
+  192: token is 'TTCCEConfig_rockettile_icache_data_arrays_0_ext'
+  module TTCCEConfig_rockettile_icache_data_arrays_0_ext(
+                                                        ^
+  Please remove one of the declarations and compile again.
+
+5 warnings
+29 errors
+
+Compilation Performance Summary
+===============================
+VCS started at        :  Tue Feb 11 14:14:34 2025
+Elapsed time          :  42 sec
+CPU Time              :  34.3 sec
+Virtual memory size   :  2309.1 MB
+Resident set size     :  2022.0 MB
+Shared memory size    :  7.8 MB
+Private memory size   :  2014.3 MB
+Major page faults     :  47
+Machine name          :  yyzc-soc06
+===============================
+
+CPU time: 33.793 seconds to compile
